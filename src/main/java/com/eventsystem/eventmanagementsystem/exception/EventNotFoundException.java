@@ -6,3 +6,4 @@ public class EventNotFoundException extends RuntimeException{
     }
 }
 //comment
+//comment
